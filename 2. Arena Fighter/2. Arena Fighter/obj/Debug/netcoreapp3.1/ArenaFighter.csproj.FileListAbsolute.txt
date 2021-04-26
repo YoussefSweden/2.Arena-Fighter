@@ -1,0 +1,13 @@
+C:\Users\Thomas\source\repos\2. Arena Fighter\2. Arena Fighter\obj\Debug\netcoreapp3.1\ArenaFighter.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\2. Arena Fighter\2. Arena Fighter\obj\Debug\netcoreapp3.1\ArenaFighter.AssemblyInfoInputs.cache
+C:\Users\Thomas\source\repos\2. Arena Fighter\2. Arena Fighter\obj\Debug\netcoreapp3.1\ArenaFighter.AssemblyInfo.cs
+C:\Users\Thomas\source\repos\2. Arena Fighter\2. Arena Fighter\obj\Debug\netcoreapp3.1\ArenaFighter.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\2. Arena Fighter\2. Arena Fighter\bin\Debug\netcoreapp3.1\ArenaFighter.exe
+C:\Users\Thomas\source\repos\2. Arena Fighter\2. Arena Fighter\bin\Debug\netcoreapp3.1\ArenaFighter.deps.json
+C:\Users\Thomas\source\repos\2. Arena Fighter\2. Arena Fighter\bin\Debug\netcoreapp3.1\ArenaFighter.runtimeconfig.json
+C:\Users\Thomas\source\repos\2. Arena Fighter\2. Arena Fighter\bin\Debug\netcoreapp3.1\ArenaFighter.runtimeconfig.dev.json
+C:\Users\Thomas\source\repos\2. Arena Fighter\2. Arena Fighter\bin\Debug\netcoreapp3.1\ArenaFighter.dll
+C:\Users\Thomas\source\repos\2. Arena Fighter\2. Arena Fighter\bin\Debug\netcoreapp3.1\ArenaFighter.pdb
+C:\Users\Thomas\source\repos\2. Arena Fighter\2. Arena Fighter\obj\Debug\netcoreapp3.1\ArenaFighter.dll
+C:\Users\Thomas\source\repos\2. Arena Fighter\2. Arena Fighter\obj\Debug\netcoreapp3.1\ArenaFighter.pdb
+C:\Users\Thomas\source\repos\2. Arena Fighter\2. Arena Fighter\obj\Debug\netcoreapp3.1\ArenaFighter.genruntimeconfig.cache
